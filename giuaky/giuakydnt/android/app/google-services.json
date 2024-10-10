@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104760788539",
+    "project_id": "giuakydnt",
+    "storage_bucket": "giuakydnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104760788539:android:b07f1dff59f225505abe1e",
+        "android_client_info": {
+          "package_name": "com.example.giuakydnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaG6i1LHdkIFSPWQ931AoiZFSJC3SOPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104760788539:android:9b7bab2cd461ff365abe1e",
+        "android_client_info": {
+          "package_name": "com.giuakydnt.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaG6i1LHdkIFSPWQ931AoiZFSJC3SOPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
